@@ -10,7 +10,7 @@ Recently,  I have used it for investigating how humans adapt to horizontal arm m
 ### What I'm focusing on now: 🧘‍♀️
 Well, exams at the moment really (a big sigh 😮‍💨). 
 But at the same time, me and my team are trying to improve our code for neural decoding competition and eventually write a report about it. 
-This summer, I am planning on doing online coding programmes once I finish my thesis! 💪
+This summer, I am planning on doing online coding programmes once I finish my thesis! 
 
 ### My Goal is 🏆
 to spend more time to start new projects and improve my coding :) 
