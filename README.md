@@ -22,7 +22,8 @@ to spend more time to start new projects and improve my coding :)
 
 - or, drop me an [email!](mailto:sera.bostan22@imperial.ac.uk) 📧
 
-
+### Fun Fact?
+I started Djing this year and I love it so much! 🎧
 <!--
 **serabos/serabos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
