@@ -13,7 +13,7 @@ But at the same time, me and my team are trying to improve our code for neural d
 This summer, I am planning on doing online coding programmes once I finish my thesis! 
 
 ### My Goal is 🏆
-to spend more time to start new projects and improve my coding :) 
+to spend more time to start new projects and improve my coding :) (also getting better at usin GitHub!)
 
 ### Want to chat? 💬
 - <a href="https://www.linkedin.com/in/sera-bostan/">
