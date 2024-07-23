@@ -1,6 +1,6 @@
 ### Hello! I am Sera Bostan 👋
 
-I am currently working at Yaya Labs where we're developing a humanoid robot called Desdemona 🤖, or we call her Desi, who is powered by AI for leveraging creativity in the entertainment sector! Desi is a going to be a popstar touring the world, and making collaborations with musical atrists to expand the music insdustry and push its boundaries ✨
+I am currently working at Yaya Labs where we're developing a humanoid robot called Desdemona 🤖, or we call her Desi, who is powered by AI for leveraging creativity in the entertainment sector! Desi is a going to be a popstar touring the world, and making collaborations with musical atrists to expand the music insdustry and push the unseen boundaries ✨
 
 doing my Master's in Biomedical Engineering (Neurotechnology)🧠 at Imperial College London! 
 
@@ -10,7 +10,7 @@ During my undergrad, MATLAB was the main programme I have used to complete stati
 Recently,  I have used it for investigating how humans adapt to horizontal arm movements in an unknown field (pretty cool☺). 🦾
 
 ### What I'm focusing on now: 🧘‍♀️
-I am searching for ntersting voice synthesis repos to check out and maybe implement for Desi to develop a unique singing voice!
+I am searching for intersting voice synthesis repos to check out and maybe implement for Desi to develop a unique singing voice!
 In the meantime, I am taking an online course on Coursera on Neural Networks and Deep Learning provided by DeepLearning.ai. Learning very cool stuff :)
 ### My Goal is 🏆
 to spend more time to start new projects and improve my coding :) (also getting better at using GitHub!)
