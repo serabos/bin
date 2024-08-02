@@ -16,10 +16,10 @@ In the meantime, I am taking an online course on Coursera on Neural Networks and
 to spend more time to start new projects and improve my coding :) (also getting better at using GitHub!)
 
 ### Want to chat? 💬
-- <a href="https://www.linkedin.com/in/sera-bostan/">
+- [LinkedIn](https://www.linkedin.com/in/sera-bostan)
   
 
-- or, drop me an [email!](mailto:sera.bostan22@imperial.ac.uk) 📧
+- or, drop me an [email!](mailto:serabostan@hotmail.co.uk) 📧
 
 ### Fun Fact?
 I started Djing last year and I love it so much! 🎧
