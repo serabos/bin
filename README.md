@@ -17,8 +17,7 @@ to spend more time to start new projects and improve my coding :) (also getting 
 
 ### Want to chat? 💬
 - <a href="https://www.linkedin.com/in/sera-bostan/">
-  <img align="left" alt="Sera's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  
 
 - or, drop me an [email!](mailto:sera.bostan22@imperial.ac.uk) 📧
 
